@@ -1,0 +1,2261 @@
+[{
+	"sku": "9813",
+	"img": "uploads/rea_v\u00e5r_2017/p1018429.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Svart Vit",
+	"article": "Vid jacka",
+	"price": 1975,
+	"reaprice": 1313,
+	"id": 681,
+	"size": "XS"
+}, {
+	"sku": "9813",
+	"img": "uploads/img_8726.jpg",
+	"pattern": "Labyrint",
+	"color": "Guldnougat",
+	"article": "Vid jacka",
+	"price": 1975,
+	"reaprice": 1313,
+	"id": 673,
+	"size": "S"
+}, {
+	"sku": "9808",
+	"img": "uploads/img_9429.jpg",
+	"pattern": "Ginkgo",
+	"color": "Svart Vit",
+	"article": "V-kl\u00e4nning l\u00e5ng \u00e4rm",
+	"price": 1395,
+	"reaprice": 977,
+	"id": 1133,
+	"size": "M"
+}, {
+	"sku": "9808",
+	"img": "uploads/img_9434.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Svart Vit",
+	"article": "V-kl\u00e4nning l\u00e5ng \u00e4rm",
+	"price": 1395,
+	"reaprice": 977,
+	"id": 1136,
+	"size": "M"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_8269.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Rosa",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1101,
+	"size": "XL"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_8310.jpg",
+	"pattern": "Smal Rand",
+	"color": "Cyklamen",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1102,
+	"size": "S"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_8322.jpg",
+	"pattern": "Diagonal",
+	"color": "Himmelsbl\u00e5",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1106,
+	"size": "XL"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_8274.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Pistagegr\u00f6n",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1109,
+	"size": "L"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_8274.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Pistagegr\u00f6n",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1110,
+	"size": "XL"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9413.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1117,
+	"size": "S"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9413.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1118,
+	"size": "M"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9413.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1119,
+	"size": "L"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9413.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1120,
+	"size": "XL"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9408.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Orange Aprikos",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1124,
+	"size": "L"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9408.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Orange Aprikos",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1125,
+	"size": "XL"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9406.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1126,
+	"size": "L"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9406.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1127,
+	"size": "XL"
+}, {
+	"sku": "9807",
+	"img": "uploads/img_9405.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Svart Vit",
+	"article": "V-kl\u00e4nning kort \u00e4rm",
+	"price": 1375,
+	"reaprice": 963,
+	"id": 1128,
+	"size": "M"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8749.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Lila Rosa",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1035,
+	"size": "S"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8749.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Lila Rosa",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1036,
+	"size": "M"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8749.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Lila Rosa",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1037,
+	"size": "L"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8762.jpg",
+	"pattern": "Varma Backen",
+	"color": "R\u00f6d Rosa",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1038,
+	"size": "S"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8793.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1041,
+	"size": "S"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8793.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1043,
+	"size": "L"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8793.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1044,
+	"size": "XL"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8783.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1046,
+	"size": "S"
+}, {
+	"sku": "9413",
+	"img": "uploads/dsc_6912.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Gr\u00f6n",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1051,
+	"size": "XL"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8766.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1053,
+	"size": "L"
+}, {
+	"sku": "9413",
+	"img": "uploads/img_8766.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Swagger ",
+	"price": 1275,
+	"reaprice": 893,
+	"id": 1054,
+	"size": "XL"
+}, {
+	"sku": "9820",
+	"img": "uploads/dsc_6896.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Hallonaprikos",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 666,
+	"size": "S"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8654.jpg",
+	"pattern": "Tiger m\u00f6rk botten",
+	"color": "Indigo",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 663,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/dsc_6903.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Sommarf\u00e4rgen Pistagegr\u00f6n",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 665,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8615.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 649,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8644.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 625,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8644.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 626,
+	"size": "XL"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8644.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 627,
+	"size": "XXL"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8644.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 624,
+	"size": "M"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8627.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 641,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8615.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 642,
+	"size": "S"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8644.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 614,
+	"size": "S"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8604.jpg",
+	"pattern": "Tre rand",
+	"color": "R\u00f6dlila",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 611,
+	"size": "M"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8604.jpg",
+	"pattern": "Tre rand",
+	"color": "R\u00f6dlila",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 612,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8642.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 607,
+	"size": "XXL"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8642.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 598,
+	"size": "XL"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8642.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 591,
+	"size": "L"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8642.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 589,
+	"size": "M"
+}, {
+	"sku": "9820",
+	"img": "uploads/img_8599.jpg",
+	"pattern": "Labyrint",
+	"color": "Guldnougat",
+	"article": "Stor t-shirt",
+	"price": 795,
+	"reaprice": 525,
+	"id": 583,
+	"size": "M"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9052.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 841,
+	"size": "S"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9048.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 837,
+	"size": "XXL"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9052.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 838,
+	"size": "XS"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9061.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Cyklamen",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 31,
+	"size": "XS"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9048.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 831,
+	"size": "XL"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9048.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 829,
+	"size": "L"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9035.jpg",
+	"pattern": "Varma Backen",
+	"color": "Klarbl\u00e5",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 817,
+	"size": "L"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9048.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 818,
+	"size": "S"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9048.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 819,
+	"size": "M"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9071.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Cyklamen",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 879,
+	"size": "L"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9043.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 884,
+	"size": "XS"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9071.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Cyklamen",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 873,
+	"size": "XS"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9077.jpg",
+	"pattern": "Ljung",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 867,
+	"size": "XS"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9052.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 861,
+	"size": "XL"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9092.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 887,
+	"size": "XS"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9092.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 888,
+	"size": "S"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9092.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 889,
+	"size": "L"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9092.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 890,
+	"size": "XL"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9041.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Orange Aprikos",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 885,
+	"size": "L"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9052.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 854,
+	"size": "M"
+}, {
+	"sku": "9809",
+	"img": "uploads/img_9061.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Cyklamen",
+	"article": "Slitslinne",
+	"price": 895,
+	"reaprice": 627,
+	"id": 584,
+	"size": "S"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8852.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1076,
+	"size": "XS"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8852.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1077,
+	"size": "S"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8852.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1078,
+	"size": "M"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8852.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1079,
+	"size": "L"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8852.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1080,
+	"size": "XL"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8863.jpg",
+	"pattern": "Twin Peaks",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1081,
+	"size": "S"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8875.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1083,
+	"size": "XS"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8875.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1084,
+	"size": "S"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8843.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Lila Rosa",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1085,
+	"size": "S"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8843.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Lila Rosa",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1086,
+	"size": "M"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8877.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Cyklamen",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1091,
+	"size": "M"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8877.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Cyklamen",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1092,
+	"size": "L"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8867.jpg",
+	"pattern": "B\u00f6na",
+	"color": "R\u00f6d Rosa",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1093,
+	"size": "S"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8867.jpg",
+	"pattern": "B\u00f6na",
+	"color": "R\u00f6d Rosa",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1094,
+	"size": "XL"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8871.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1095,
+	"size": "XS"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8871.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1096,
+	"size": "M"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8871.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1097,
+	"size": "L"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8871.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1098,
+	"size": "XL"
+}, {
+	"sku": "1007",
+	"img": "uploads/img_8871.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Raglankl\u00e4nning kort \u00e4rm",
+	"price": 1325,
+	"reaprice": 928,
+	"id": 1099,
+	"size": "XXL"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8656.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Cyklamen",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 796,
+	"size": "XXL"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8661.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 783,
+	"size": "XL"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8661.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 776,
+	"size": "L"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8661.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 775,
+	"size": "M"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8692.jpg",
+	"pattern": "Tiger m\u00f6rk botten",
+	"color": "M\u00f6rk Indigo",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 752,
+	"size": "M"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_7904.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "B\u00e4rnsten",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 749,
+	"size": "XXL"
+}, {
+	"sku": "1510",
+	"img": "uploads/dsc_6925.jpg",
+	"pattern": "Fj\u00e4der",
+	"color": "Konjak",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 740,
+	"size": "XXL"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8696.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 723,
+	"size": "XXL"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8696.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 716,
+	"size": "XL"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8696.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 715,
+	"size": "L"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8696.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 712,
+	"size": "S"
+}, {
+	"sku": "1510",
+	"img": "uploads/img_8686.jpg",
+	"pattern": "B\u00f6na",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "L\u00e5ng\u00e4rmad tr\u00f6ja",
+	"price": 1050,
+	"reaprice": 697,
+	"id": 1178,
+	"size": "XXL"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8543.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Lilarosa ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 935,
+	"size": "L"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8543.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Lilarosa ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 934,
+	"size": "M"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8553.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 933,
+	"size": "L"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8553.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 932,
+	"size": "M"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8574.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 931,
+	"size": "L"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8574.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 930,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_9952.jpg",
+	"pattern": "Fj\u00e4der",
+	"color": "Havsturkos svart",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 926,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8576.jpg",
+	"pattern": "Wicky Leeks",
+	"color": "Lilarosa ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 936,
+	"size": "M"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8546.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Lilarosa ",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 937,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_9950.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Vin Gr\u00e5rosa",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 939,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_9955.jpg",
+	"pattern": "Diagonal",
+	"color": "Vallmor\u00f6d",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 945,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8560.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 946,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8560.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 948,
+	"size": "L"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8569.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Orange Aprikos",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 950,
+	"size": "XL"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8558.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 951,
+	"size": "S"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8558.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 952,
+	"size": "M"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8558.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 953,
+	"size": "L"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8558.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 954,
+	"size": "XL"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8597.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Sommarf\u00e4rgen Pistagegr\u00f6n",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 955,
+	"size": "M"
+}, {
+	"sku": "9802",
+	"img": "uploads/img_8597.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Sommarf\u00e4rgen Pistagegr\u00f6n",
+	"article": "Liten t-shirt",
+	"price": 695,
+	"reaprice": 487,
+	"id": 956,
+	"size": "L"
+}, {
+	"sku": "903",
+	"img": "uploads/dsc_6901.jpg",
+	"pattern": "Enf\u00e4rgad",
+	"color": "Cyklamen",
+	"article": "Liten bastr\u00f6ja",
+	"price": 940,
+	"reaprice": 697,
+	"id": 807,
+	"size": "XXL"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9028.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1056,
+	"size": "L"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9028.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1057,
+	"size": "XL"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9019.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1058,
+	"size": "XS"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9019.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1059,
+	"size": "M"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9019.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1060,
+	"size": "L"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9019.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1061,
+	"size": "XL"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9010.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1062,
+	"size": "S"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9010.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1063,
+	"size": "XL"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9016.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1064,
+	"size": "M"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9016.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1065,
+	"size": "L"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9006.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Orange Aprikos",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1066,
+	"size": "XS"
+}, {
+	"sku": "1506",
+	"img": "uploads/img_9006.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Orange Aprikos",
+	"article": "Linnekl\u00e4nning",
+	"price": 945,
+	"reaprice": 662,
+	"id": 1067,
+	"size": "S"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8426.jpg",
+	"pattern": "Twin Peaks",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 959,
+	"size": "S"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8426.jpg",
+	"pattern": "Twin Peaks",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 960,
+	"size": "M"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8374.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 963,
+	"size": "M"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8374.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 964,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8374.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 965,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8374.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 966,
+	"size": "XXL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8370.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 967,
+	"size": "S"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8370.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 968,
+	"size": "M"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8370.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 969,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8370.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 970,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8438.jpg",
+	"pattern": "Varma Backen",
+	"color": "Klarbl\u00e5",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 973,
+	"size": "M"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8438.jpg",
+	"pattern": "Varma Backen",
+	"color": "Klarbl\u00e5",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 974,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8410.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 978,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8410.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 979,
+	"size": "XXL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8416.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 980,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8416.jpg",
+	"pattern": "Ginkgo Fantasi",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 981,
+	"size": "XXL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8385.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "R\u00f6d Rosa",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 984,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8389.jpg",
+	"pattern": "Varma Backen",
+	"color": "R\u00f6d Rosa",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 985,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8389.jpg",
+	"pattern": "Varma Backen",
+	"color": "R\u00f6d Rosa",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 986,
+	"size": "XL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8389.jpg",
+	"pattern": "Varma Backen",
+	"color": "R\u00f6d Rosa",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 987,
+	"size": "XXL"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8378.jpg",
+	"pattern": "Wicky Leeks",
+	"color": "Lilarosa ",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 989,
+	"size": "M"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8378.jpg",
+	"pattern": "Wicky Leeks",
+	"color": "Lilarosa ",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 990,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8402.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Lila Rosa",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 995,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8440.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 997,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8428.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 998,
+	"size": "M"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8428.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 999,
+	"size": "L"
+}, {
+	"sku": "9801",
+	"img": "uploads/img_8428.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Linne",
+	"price": 750,
+	"reaprice": 455,
+	"id": 1000,
+	"size": "XL"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9466.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1140,
+	"size": "S"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9466.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1141,
+	"size": "M"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9472.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Guldnougat",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1142,
+	"size": "XS"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9472.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Guldnougat",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1144,
+	"size": "M"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9472.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Guldnougat",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1145,
+	"size": "L"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9464.jpg",
+	"pattern": "Tiger m\u00f6rk botten",
+	"color": "M\u00f6rk Indigo",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1147,
+	"size": "XS"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9464.jpg",
+	"pattern": "Tiger m\u00f6rk botten",
+	"color": "M\u00f6rk Indigo",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1148,
+	"size": "XL"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9453.jpg",
+	"pattern": "Ljung",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1149,
+	"size": "XS"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9459.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "M\u00f6rk Indigo",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1153,
+	"size": "XS"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9459.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "M\u00f6rk Indigo",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1154,
+	"size": "S"
+}, {
+	"sku": "201",
+	"img": "uploads/img_8025.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Vin Gr\u00e5rosa",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1155,
+	"size": "XS"
+}, {
+	"sku": "201",
+	"img": "uploads/img_9451.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Kl\u00e4nningstunika",
+	"price": 1395,
+	"reaprice": 893,
+	"id": 1160,
+	"size": "XL"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7886.jpg",
+	"pattern": "Stor Blomma",
+	"color": "Vallmor\u00f6d",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1001,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_9967.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Hallonaprikos",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1002,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7869.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Vin Gr\u00e5rosa",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1004,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7881.jpg",
+	"pattern": "Labyrint",
+	"color": "Cyklamen",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1006,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7881.jpg",
+	"pattern": "Labyrint",
+	"color": "Cyklamen",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1007,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7872.jpg",
+	"pattern": "Lilla Backen",
+	"color": "Lavendel Cikoria",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1009,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7917.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Lavendel Cikoria",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1010,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7917.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Lavendel Cikoria",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1011,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8496.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Klarbl\u00e5",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1012,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8496.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Klarbl\u00e5",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1013,
+	"size": "XL"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8447.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "M\u00f6rk Indigo",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1014,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7877.jpg",
+	"pattern": "Fj\u00e4der",
+	"color": "Havsturkos svart",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1016,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8469.jpg",
+	"pattern": "Fj\u00e4der",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1017,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8462.jpg",
+	"pattern": "Wicky Leeks",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1019,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7897.jpg",
+	"pattern": "Diagonal",
+	"color": "Himmelsbl\u00e5",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1020,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_7961.jpg",
+	"pattern": "Twin Peaks",
+	"color": "\u00c4rtgr\u00f6n",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1022,
+	"size": "XL"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8488.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Guldnougat",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1023,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8488.jpg",
+	"pattern": "B\u00f6na",
+	"color": "Guldnougat",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1024,
+	"size": "L"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8479.jpg",
+	"pattern": "Labyrint",
+	"color": "Guldnougat",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1025,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8479.jpg",
+	"pattern": "Labyrint",
+	"color": "Guldnougat",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1026,
+	"size": "XL"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8448.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1027,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8448.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1028,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8448.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1029,
+	"size": "L"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8448.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1030,
+	"size": "XL"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8475.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1031,
+	"size": "S"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8475.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1032,
+	"size": "M"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8475.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1033,
+	"size": "L"
+}, {
+	"sku": "9905",
+	"img": "uploads/img_8475.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Klockad kjol",
+	"price": 995,
+	"reaprice": 683,
+	"id": 1034,
+	"size": "XL"
+}, {
+	"sku": "510",
+	"img": "uploads/img_9956.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Hallonaprikos",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 900,
+	"size": "S"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8513.jpg",
+	"pattern": "Tre rand",
+	"color": "R\u00f6dlila",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 897,
+	"size": "M"
+}, {
+	"sku": "510",
+	"img": "uploads/dsc_6920.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Pistagegr\u00f6n",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 925,
+	"size": "XXL"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8518.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 923,
+	"size": "XXL"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8518.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 922,
+	"size": "XL"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8518.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 921,
+	"size": "M"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8498.jpg",
+	"pattern": "Labyrint",
+	"color": "Guldnougat",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 919,
+	"size": "L"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8503.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 917,
+	"size": "L"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8503.jpg",
+	"pattern": "Tre rand",
+	"color": "Guldnougat",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 916,
+	"size": "M"
+}, {
+	"sku": "510",
+	"img": "uploads/img_9963.jpg",
+	"pattern": "Tiger ljus botten",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 912,
+	"size": "S"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8536.jpg",
+	"pattern": "Varma Backen",
+	"color": "Klarbl\u00e5",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 911,
+	"size": "L"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8513.jpg",
+	"pattern": "Tre rand",
+	"color": "R\u00f6dlila",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 898,
+	"size": "L"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8516.jpg",
+	"pattern": "Twin Peaks",
+	"color": "Ceris Aprikos",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 892,
+	"size": "M"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8511.jpg",
+	"pattern": "Twin Peaks",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 908,
+	"size": "L"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8507.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 906,
+	"size": "M"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8533.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 904,
+	"size": "S"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8533.jpg",
+	"pattern": "K\u00e4rna",
+	"color": "Syr\u00e9n Lila ",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 903,
+	"size": "XS"
+}, {
+	"sku": "510",
+	"img": "uploads/img_9956.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Hallonaprikos",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 901,
+	"size": "XL"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8528.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Cyklamen",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 895,
+	"size": "M"
+}, {
+	"sku": "510",
+	"img": "uploads/img_8528.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Cyklamen",
+	"article": "Holk\u00e4rmstr\u00f6ja",
+	"price": 750,
+	"reaprice": 525,
+	"id": 896,
+	"size": "L"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9503.jpg",
+	"pattern": "Pyramid",
+	"color": "Jade Ceris",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1162,
+	"size": "S"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9495.jpg",
+	"pattern": "B\u00f6na",
+	"color": "P\u00e5f\u00e5gelbl\u00e5",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1166,
+	"size": "L"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9490.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1167,
+	"size": "L"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9490.jpg",
+	"pattern": "Mah-Jongblomma",
+	"color": "Jade Turkos",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1168,
+	"size": "XL"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9483.jpg",
+	"pattern": "Pyramid",
+	"color": "Orange Aprikos",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1174,
+	"size": "L"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9486.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1176,
+	"size": "S"
+}, {
+	"sku": "1401",
+	"img": "uploads/img_9486.jpg",
+	"pattern": "F\u00e5gel",
+	"color": "Jade Ceris",
+	"article": "Fickkl\u00e4nning",
+	"price": 1575,
+	"reaprice": 998,
+	"id": 1177,
+	"size": "L"
+}]

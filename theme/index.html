@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <title>Vamlingbolaget filter</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+   <style type="text/css">
+   	.box {
+	    float: left;
+	}
+	.iconimg {
+		vertical-align: top !important;
+	    width: 20px;
+	    height: 20px;
+	}
+	.boxline {
+		width: 20px;
+		height: 20px; 
+		border: 1px;
+		border-style: solid;
+	}
+	.icon {
+	  width: 12px;
+	  height: 12px;
+	}
+	.c2 {
+		column-count: 2;
+	}
+	.c4 {
+		column-count: 4;
+	}
+	.c8 {
+		column-count: 8;
+	}
+	.c6 {
+		column-count: 6;
+	}
+	.cardcontrolsmall {
+        min-width: 180px;
+	}
+	.cardcontrolmedium {
+        min-width: 210px;
+	}
+	.cardcontrollarge {
+        min-width: 240px;
+	}
+	.menupadding {
+		margin-right: 1em;
+	}
+	.codfloatleft {
+		 float: left;
+	}
+	
+	a {
+    	color: black;
+    	font-weight: bold;
+	}
+	.shopimgextra {
+		padding-right: 2px !important;
+    	padding-left: 2px !important;
+    	font-size: 0.6em; 
+
+
+	}
+	body {
+        font-family: "Century Gothic", Verdana, Arial, Helvetica, sans-serif;
+    	
+	}
+	.card p {
+		 margin-bottom: 0.2rem !important; 
+	}
+    .carddivextra {    
+    	padding-left: 0.1rem;
+    }
+
+   </style>
+
+</head>
+<body>
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+ 	 <div class="navbar-brand">
+ 	 	<div class="dropdown">
+		<div class="nav-item dropdown text-left flags">
+            <div class="btn-group">
+                <a type="button" href="#" class="btn dropdown-toggle"  data-toggle="dropdown" >
+                  	<span class="orange forcebtn" aria-haspopup="true" aria-expanded="false"> 
+                    	<span class="glyphicon glyphicon-flag forcebtn" aria-hidden="true"></span> {% trans "Language" %}
+                    	<b class="caret"> </b>
+                  	</span>
+                </a>
+                <div class ="dropdown-menu">
+                   	<a class="dropdown-item" href="#" > <span class="change_lang" id="sv">Svenska</span></a>
+                    <a class="dropdown-item" href="#"> <span class="change_lang" id="en">English</span>  </a>
+                   	<a class="dropdown-item" href="#"> <span class="change_lang" id="fi">Suomalainen</span> 
+                    <a class="dropdown-item" href="#" > <span class="change_lang" id="de">Deutsch</span>  </a>
+                    <a class="dropdown-item" href="#"> <span class="change_lang" id="da">Dansk</span>  </a>
+                </div>
+            </div>
+            <form action="/i18n/setlang/" method="post" id="lang" >
+                {% csrf_token %}
+                <input name="next" type="hidden" value="{{ redirect_to }}" />
+                <input name="language" type="hidden" value="en"/>
+            </form>
+      </div> 
+  	</div>
+  	</div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Shop<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Om oss
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+    
+    </ul>
+  </div>
+</nav>
+
+    <div id="react-container" style={padding-top:"200px"}></div>
+    <script type="text/javascript" src="static/bundle.js"></script>
+
+    <div id="translations" class="hidden">
+    	<span class="colorsandpatterns" id="colorsandpatterns"> {% trans "Färger och Mönster" %} </span>
+    </div> 
+</body>
+</html>

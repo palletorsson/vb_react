@@ -1,0 +1,13 @@
+{
+	"posts": [{
+		"todo": "Studenter",
+		"date": "2016-12-8",
+		"done": false
+	},
+	{
+		"todo": "Bread",
+		"date": "2016-12-9",
+		"done": true
+	}]
+}
+
